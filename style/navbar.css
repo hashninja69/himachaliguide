@@ -19,3 +19,10 @@
 .page-footer {
   background-color: rgb(25, 135, 84);
 }
+
+@media (max-width:400px){
+
+  .w-50{
+    width:70%;
+  }
+}
