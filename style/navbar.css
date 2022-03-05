@@ -1,0 +1,21 @@
+.card {
+  background: url("/images/showcase_image.jpg");
+  height: 630px;
+  background-size: cover;
+}
+
+.btn {
+  margin: auto;
+}
+
+.card-title {
+  font-weight: 900;
+}
+
+.card-text {
+  font-weight: 600;
+}
+
+.page-footer {
+  background-color: rgb(25, 135, 84);
+}
